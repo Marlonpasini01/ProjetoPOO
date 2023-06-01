@@ -1,0 +1,17 @@
+.cadastro{
+
+    display: flex;
+    justify-content: center;
+    padding-left: 750px;
+    padding-top: 25p;
+   
+    
+}
+
+.cad {
+
+    margin: auto;
+    width: fit-content;
+    padding-left: 750px;
+
+}
